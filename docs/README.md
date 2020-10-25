@@ -1,4 +1,4 @@
-#LaTeX#
+# LaTeX
 
 LaTeX is a document preparation system  particularly well suited for
 typesetting scientific texts, papers and reports.  LaTeX is ideal for
@@ -10,6 +10,7 @@ We will learn how to structure the document, add tables, figures, etc.
 The different topics will be demonstrated with small examples and
 pointers to more advanced features will be given. 
 
+## Content
 * What is LaTeX: some history, installing LaTeX, the LaTeX cycle
 * A first LaTeX document: basic LaTeX commands
 * Manipulating Text: bold face etc., lists, font size, etc.
@@ -19,9 +20,10 @@ pointers to more advanced features will be given.
 bibliography, bibtex
 * Beamer: a very short introduction to slides in LaTeX
 
-Level: beginner
+## Level: 
+beginner
 
-Objectives:
+## Objectives:
 * Understand the purpose, philosophy of LaTeX.
 * Understand and use a LaTeX oriented editor.
 * Use LaTeX to format text in various ways.
