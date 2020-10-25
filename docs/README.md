@@ -30,3 +30,13 @@ beginner
 * Use LaTeX to format mathematics, add tables and figures, etc.
 * Use LaTeX to create long documents with table of contents,
 bibliography, references, etc.
+
+
+## Documents related to the LaTeX course
+[slides] (https://franklbvp.github.io/latex_intro/docs/Binder-latex-2019_2020.pdf)
+
+## Video Material
+
+|Presentation | PowerPoint Narrative | Screencast Demo LaTeX |
+|------------ | -------------------- | -----------------------|
+| | | |
