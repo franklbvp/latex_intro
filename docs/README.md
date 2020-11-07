@@ -33,7 +33,7 @@ bibliography, references, etc.
 
 
 ## Documents related to the LaTeX course
-[slides](https://github.com/franklbvp/latex_intro/blob/main/docs/Binder-latex-2019_2020.pdf)
+![slides](https://github.com/franklbvp/latex_intro/blob/main/docs/Binder-latex-2019_2020.pdf)
 
 ## Video Material
 
