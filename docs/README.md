@@ -42,7 +42,7 @@ bibliography, references, etc.
 | [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-2020-CourseOverview.pdf)| - | - |
 |[introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-2020-introduction.pdf) | [43:20]() | [07:13](https://kuleuven.mediaspace.kaltura.com/media/latex_intro_help/1_p5ao2q2p) |
 |[TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/s1b-LaTeX-2020-texstudio.pdf) | []() | []() |
-|[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-2020-firstDocument.pdf) | [3:19]() | [27:52](https://kuleuven.mediaspace.kaltura.com/media/latex_first_document/1_gr1gwk50) |
+|[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-2020-firstDocument.pdf) | [43:19]() | [27:52](https://kuleuven.mediaspace.kaltura.com/media/latex_first_document/1_gr1gwk50) |
 |[text formatting](https://github.com/franklbvp/latex_intro/blob/main/docs/s13-LaTeX-2020-textFormatting.pdf) | [32:36]() | [31:12](https://kuleuven.mediaspace.kaltura.com/media/latex_text_manipulation/1_70oo9rn9) |
 |[text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/s14-LaTeX-2020-textLayout.pdf) | [11:54]() | [15:41](https://kuleuven.mediaspace.kaltura.com/media/latex_text_layout/1_721xp8yq) |
 |[mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/s21-LaTeX-2020-mathematics.pdf) | [26:36]() | [30:29](https://kuleuven.mediaspace.kaltura.com/media/latex_mathematics/1_liph3ws4) |
