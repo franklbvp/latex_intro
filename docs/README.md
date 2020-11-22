@@ -33,7 +33,7 @@ bibliography, references, etc.
 
 
 ## Documents related to the LaTeX course
-![LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
+* [LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
 
 ## Video Material
 
@@ -43,7 +43,7 @@ bibliography, references, etc.
 |[introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-2020-introduction.pdf) | []() | []() |
 |[TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/s1b-LaTeX-2020-texstudio.pdf) | []() | []() |
 |[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-2020-firstDocument.pdf) | []() | []() |
-|[text formatting]()https://github.com/franklbvp/latex_intro/blob/main/docs/s13-LaTeX-2020-textFormatting.pdf | []() | []() |
+|[text formatting](https://github.com/franklbvp/latex_intro/blob/main/docs/s13-LaTeX-2020-textFormatting.pdf) | []() | []() |
 |[text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/s14-LaTeX-2020-textLayout.pdf) | []() | []() |
 |[mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/s21-LaTeX-2020-mathematics.pdf) | []() | []() |
 |[adding more](https://github.com/franklbvp/latex_intro/blob/main/docs/s22-LaTeX-2020-addingMore.pdf) | []() | []() |
