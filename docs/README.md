@@ -34,6 +34,8 @@ bibliography, references, etc.
 
 ## Documents related to the LaTeX course
 * [LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
+* [Overleaf learning corner](https://www.overleaf.com/learn)
+* [zip example files](https://github.com/franklbvp/latex_intro/blob/main/docs/LatexDev.zip)
 
 ## Video Material
 
@@ -52,8 +54,7 @@ bibliography, references, etc.
 |[extra](https://github.com/franklbvp/latex_intro/blob/main/docs/s25-LaTeX-2020-extra.pdf) | []() | [17:20](https://kuleuven.mediaspace.kaltura.com/media/latex_extra/1_n9inj0lk) |
 |[very minimal Tikz](https://github.com/franklbvp/latex_intro/blob/main/docs/s34-LaTeX-2020-graphics-tikz.pdf) | []() | []() |
 |[minimal Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/s35-LaTeX-2020-basics-beamer.pdf) | []() | []() |
-|[]() | []() | []() |
-|[]() | []() | []() |
+
 
 
 
