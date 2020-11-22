@@ -33,10 +33,28 @@ bibliography, references, etc.
 
 
 ## Documents related to the LaTeX course
-![slides](https://github.com/franklbvp/latex_intro/blob/main/docs/Binder-latex-2019_2020.pdf)
+![LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
 
 ## Video Material
 
 |Presentation | PowerPoint Narrative | Screencast Demo LaTeX |
 |------------ | -------------------- | -----------------------|
-| | | |
+| [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-2020-CourseOverview.pdf)| - | - |
+|[introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-2020-introduction.pdf) | []() | []() |
+|[TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/s1b-LaTeX-2020-texstudio.pdf) | []() | []() |
+|[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-2020-firstDocument.pdf) | []() | []() |
+|[text formatting]()https://github.com/franklbvp/latex_intro/blob/main/docs/s13-LaTeX-2020-textFormatting.pdf | []() | []() |
+|[text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/s14-LaTeX-2020-textLayout.pdf) | []() | []() |
+|[mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/s21-LaTeX-2020-mathematics.pdf) | []() | []() |
+|[adding more](https://github.com/franklbvp/latex_intro/blob/main/docs/s22-LaTeX-2020-addingMore.pdf) | []() | []() |
+|[large document](https://github.com/franklbvp/latex_intro/blob/main/docs/s23-LaTeX-2020-largeDocuments.pdf) | []() | []() |
+|[bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-2020-biblography.pdf) | []() | []() |
+|[extra](https://github.com/franklbvp/latex_intro/blob/main/docs/s25-LaTeX-2020-extra.pdf) | []() | []() |
+|[very minimal Tikz](https://github.com/franklbvp/latex_intro/blob/main/docs/s34-LaTeX-2020-graphics-tikz.pdf) | []() | []() |
+|[minimal Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/s35-LaTeX-2020-basics-beamer.pdf) | []() | []() |
+|[]() | []() | []() |
+|[]() | []() | []() |
+
+
+
+
