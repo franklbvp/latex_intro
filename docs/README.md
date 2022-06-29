@@ -41,7 +41,7 @@ bibliography, references, etc.
 
 |Presentation | PowerPoint Narrative | Screencast Demo LaTeX |
 |------------ | -------------------- | -----------------------|
-| [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-2020-CourseOverview.pdf)| - | - |
+| [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-CourseOverview.pdf)| - | - |
 |[introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) | [43:20](https://kuleuven.mediaspace.kaltura.com/media/s11-LaTeX-2020-introduction-nar/1_zsakbup2) | [07:13](https://kuleuven.mediaspace.kaltura.com/media/latex_intro_help/1_p5ao2q2p) |
 |[TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/s1b-LaTeX-texstudio.pdf) | []() | []() |
 |[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-firstDocument.pdf) | [43:19](https://kuleuven.mediaspace.kaltura.com/media/s12-LaTeX-2020-firstDocument-nar/1_ys7mif76) | [27:52](https://kuleuven.mediaspace.kaltura.com/media/latex_first_document/1_gr1gwk50) |
