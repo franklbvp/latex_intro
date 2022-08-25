@@ -50,7 +50,7 @@ bibliography, references, etc.
 |[mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/s21-LaTeX-mathematics.pdf) | [video-26:36](https://kuleuven.mediaspace.kaltura.com/media/s21-LaTeX-2020-mathematics-nar/1_010bjizv) | [video-30:29](https://kuleuven.mediaspace.kaltura.com/media/latex_mathematics/1_liph3ws4) |
 |[adding more](https://github.com/franklbvp/latex_intro/blob/main/docs/s22-LaTeX-addingMore.pdf) | [video-25:46](https://kuleuven.mediaspace.kaltura.com/media/s22-LaTeX-2020-addingMore-nar/1_zpi95499) | [video-29:16](https://kuleuven.mediaspace.kaltura.com/media/latex_include_more/1_mg8qvg5d) |
 |[large document](https://github.com/franklbvp/latex_intro/blob/main/docs/s23-LaTeX-largeDocuments.pdf) | [video-37:20](https://kuleuven.mediaspace.kaltura.com/media/s23-LaTeX-2020-largeDocuments-nar/1_5loto9cs) | [video-26:44](https://kuleuven.mediaspace.kaltura.com/media/latex_large_document/1_v6ztutck) |
-|[bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-biblography.pdf) | [video-25:29](https://kuleuven.mediaspace.kaltura.com/media/s24-LaTeX-2020-biblography-nar/1_c0morv12) | [19:41](https://kuleuven.mediaspace.kaltura.com/media/latex_bibliography/1_81bl89g6) |
+|[bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-biblography.pdf) | [video-25:29](https://kuleuven.mediaspace.kaltura.com/media/s24-LaTeX-2020-biblography-nar/1_c0morv12) | [video-19:41](https://kuleuven.mediaspace.kaltura.com/media/latex_bibliography/1_81bl89g6) |
 |[extra](https://github.com/franklbvp/latex_intro/blob/main/docs/s25-LaTeX-extra.pdf) | []() | [video-17:20](https://kuleuven.mediaspace.kaltura.com/media/latex_extra/1_n9inj0lk) |
 |[very minimal Tikz](https://github.com/franklbvp/latex_intro/blob/main/docs/s34-LaTeX-graphics-tikz.pdf) | []() | []() |
 |[minimal Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/s35-LaTeX-basics-beamer.pdf) | []() | []() |
@@ -58,6 +58,6 @@ bibliography, references, etc.
 
 
 
-
+<!--
 [comment]: # [bibliography](bibliography.md)
-
+-->
