@@ -39,7 +39,7 @@ bibliography, references, etc.
 
 ## Video Material
 
-|Slides (pdf) | Pecorded PowerPoint | Screencast Demo LaTeX |
+|Slides (pdf) | Recorded PowerPoint | Screencast Demo LaTeX |
 |------------ | -------------------- | -----------------------|
 | [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-CourseOverview.pdf)| - | - |
 |[introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) | [video-43:20](https://kuleuven.mediaspace.kaltura.com/media/s11-LaTeX-2020-introduction-nar/1_zsakbup2) | [video-07:13](https://kuleuven.mediaspace.kaltura.com/media/latex_intro_help/1_p5ao2q2p) |
