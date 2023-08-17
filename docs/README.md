@@ -14,10 +14,10 @@ pointers to more advanced features will be given.
 * What is LaTeX: some history, installing LaTeX, the LaTeX cycle
 * A first LaTeX document: basic LaTeX commands
 * Manipulating Text: bold face etc., lists, font size, etc.
-* Adding more: tables, figures, referencing
+* Adding more: tables, figures
 * Mathematics
-* Long documents: getting it structured, table of contents,
-bibliography, bibtex
+* Long documents/projects: getting it structured, table of contents, glossaries, etc. 
+* Bibliography, bibtex
 * Beamer: a very short introduction to slides in LaTeX
 
 ## Level: 
@@ -33,13 +33,30 @@ bibliography, references, etc.
 
 
 ## Documents related to the LaTeX course
-* [LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
-* [Overleaf learning corner](https://www.overleaf.com/learn)
 * [zip example files](https://github.com/franklbvp/latex_intro/blob/main/docs/LatexDev.zip)
 
-## Video Material
+## Course Material (2023)
 
-|Slides (pdf) | Recorded PowerPoint | Screencast Demo LaTeX |
+|Topic  | Slides (pdf) |
+|------------ | -------------------- | 
+| Overview sessions | [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-CourseOverview.pdf)|
+| Getting Started  | [introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) |
+| Setting the Scene | [introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) |
+| Introducing TexStudio | [TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/s1b-LaTeX-texstudio.pdf) | 
+| Your first LaTeX document |[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-firstDocument.pdf) | 
+| More on text formatting in LaTeX | [text formatting](https://github.com/franklbvp/latex_intro/blob/main/docs/s13-LaTeX-textFormatting.pdf) | 
+| More on text layout | [text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/s14-LaTeX-textLayout.pdf) | 
+| Mathematics | [mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/s21-LaTeX-mathematics.pdf) | 
+| Add Images and Tables | [adding more](https://github.com/franklbvp/latex_intro/blob/main/docs/s22-LaTeX-addingMore.pdf) |
+| Modular Organization | [large document](https://github.com/franklbvp/latex_intro/blob/main/docs/s23-LaTeX-largeDocuments.pdf) | 
+| Large Projects | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-biblography.pdf) |
+| Bibliography | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-biblography.pdf) |
+| Some extra's | [extra](https://github.com/franklbvp/latex_intro/blob/main/docs/s25-LaTeX-extra.pdf) | 
+| Basic Beamer | [minimal Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/s35-LaTeX-basics-beamer.pdf) | 
+
+## Course Material (2020)
+
+|Slides  (pdf) | Recorded PowerPoint | Screencast Demo LaTeX |
 |------------ | -------------------- | -----------------------|
 | [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-CourseOverview.pdf)| - | - |
 |[introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) | [video-43:20](https://kuleuven.mediaspace.kaltura.com/media/s11-LaTeX-2020-introduction-nar/1_zsakbup2) | [video-07:13](https://kuleuven.mediaspace.kaltura.com/media/latex_intro_help/1_p5ao2q2p) |
@@ -56,7 +73,9 @@ bibliography, references, etc.
 |[minimal Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/s35-LaTeX-basics-beamer.pdf) | []() | []() |
 
 
-
+## Useful LaTeX information
+* [LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
+* [Overleaf learning corner](https://www.overleaf.com/learn)
 
 <!--
 [comment]: # [bibliography](bibliography.md)
