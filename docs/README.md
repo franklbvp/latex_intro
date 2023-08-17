@@ -47,10 +47,10 @@ bibliography, references, etc.
 | More on text formatting in LaTeX | [text formatting](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s15-LaTeX-textFormatting.pdf) | 
 | More on text layout | [text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s16-LaTeX-textLayout.pdf) | 
 | Mathematics | [mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s21-LaTeX-mathematics.pdf) | 
-| Add Images and Tables | [adding images and tables](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s22-LaTeX-addingImagesTables.pdf) |
+| Add Images and Tables | [adding images and tables](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s22-LaTeX-addImagesTables.pdf) |
 | Modular Organization | [modular organization](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s23-LaTeX-modularOrganization.pdf) | 
 | Large Projects | [large projects](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s24-LaTeX-largeProjects.pdf) |
-| Bibliography | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s25-LaTeX-biblography.pdf) |
+| Bibliography | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s25-LaTeX-bibliography.pdf) |
 | Some extra's | [extra](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s26-LaTeX-extra.pdf) | 
 | Basic Beamer | [basic Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s31-LaTeX-basics-beamer.pdf) | 
 
