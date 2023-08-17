@@ -39,20 +39,20 @@ bibliography, references, etc.
 
 |Topic  | Slides (pdf) |
 |------------ | -------------------- | 
-| Overview sessions | [Overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/s00-LaTeX-CourseOverview.pdf)|
-| Getting Started  | [introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) |
-| Setting the Scene | [introduction](https://github.com/franklbvp/latex_intro/blob/main/docs/s11-LaTeX-introduction.pdf) |
-| Introducing TexStudio | [TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/s1b-LaTeX-texstudio.pdf) | 
-| Your first LaTeX document |[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/s12-LaTeX-firstDocument.pdf) | 
-| More on text formatting in LaTeX | [text formatting](https://github.com/franklbvp/latex_intro/blob/main/docs/s13-LaTeX-textFormatting.pdf) | 
-| More on text layout | [text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/s14-LaTeX-textLayout.pdf) | 
-| Mathematics | [mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/s21-LaTeX-mathematics.pdf) | 
-| Add Images and Tables | [adding more](https://github.com/franklbvp/latex_intro/blob/main/docs/s22-LaTeX-addingMore.pdf) |
-| Modular Organization | [large document](https://github.com/franklbvp/latex_intro/blob/main/docs/s23-LaTeX-largeDocuments.pdf) | 
-| Large Projects | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-biblography.pdf) |
-| Bibliography | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/s24-LaTeX-biblography.pdf) |
-| Some extra's | [extra](https://github.com/franklbvp/latex_intro/blob/main/docs/s25-LaTeX-extra.pdf) | 
-| Basic Beamer | [minimal Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/s35-LaTeX-basics-beamer.pdf) | 
+| Overview sessions | [overview sessions](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s00-LaTeX-CourseOverview.pdf)|
+| Getting Started  | [getting started](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s11-LaTeX-gettingStarted.pdf) |
+| Setting the Scene | [setting the scene](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s12-LaTeX-settingTheScene.pdf) |
+| Introducing TexStudio | [TeXstudio](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s13-LaTeX-texstudio.pdf) | 
+| Your first LaTeX document |[first document](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s14-LaTeX-firstDocument.pdf) | 
+| More on text formatting in LaTeX | [text formatting](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s15-LaTeX-textFormatting.pdf) | 
+| More on text layout | [text layout](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s16-LaTeX-textLayout.pdf) | 
+| Mathematics | [mathematics](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s21-LaTeX-mathematics.pdf) | 
+| Add Images and Tables | [adding images and tables](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s22-LaTeX-addingImagesTables.pdf) |
+| Modular Organization | [modular organization](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s23-LaTeX-modularOrganization.pdf) | 
+| Large Projects | [large projects](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s24-LaTeX-largeProjects.pdf) |
+| Bibliography | [bibliography](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s25-LaTeX-biblography.pdf) |
+| Some extra's | [extra](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s26-LaTeX-extra.pdf) | 
+| Basic Beamer | [basic Beamer](https://github.com/franklbvp/latex_intro/blob/main/docs/last/s31-LaTeX-basics-beamer.pdf) | 
 
 ## Course Material (2020)
 
